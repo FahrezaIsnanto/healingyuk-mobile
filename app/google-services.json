@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761298211868",
+    "project_id": "fahrezaisnantodev",
+    "storage_bucket": "fahrezaisnantodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761298211868:android:864eb12618957fd01ffbd9",
+        "android_client_info": {
+          "package_name": "com.bangkit.healingyuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcXxCdWga1BRyYtvtwfBG7F-xwkKxppo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
